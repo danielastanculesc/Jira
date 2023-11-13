@@ -1,7 +1,7 @@
 # Jira
 Manual testing using Jira and Zephyr Squad
 
-the site I tested: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+The site I tested: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
 I chose to test the PIM - Add Employee module
 
